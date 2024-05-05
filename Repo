@@ -1,0 +1,20 @@
+// Octokit.js
+// https://github.com/Mraprguilds/Termux-Header-Style/Repo
+const octokit = Mraprguilds({
+  auth: 'YOUR-TOKEN'
+})
+
+await octokit.request('PATCH /repos/{owner}/{repo}', {
+  owner: 'Mraprguilds',
+  repo: 'REPO',
+  name: 'Termux-Header-Style',
+  description: 'This is your first repository',
+  homepage: 'https://github.com/Mraprguilds',
+  'private': true,
+  has_issues: true,
+  has_projects: true,
+  has_wiki: true,
+  headers: {
+    'X-GitHub-Api-Version': '2024-04-28'
+  }
+})
