@@ -25,7 +25,7 @@ This Bash script contains Oh-My-Zsh With, command autosuggestion, syntax highlig
 
 
 ## Download and installation steps
-<img src="https://private-user-images.githubusercontent.com/165016015/362364094-5f38db2a-dfcb-4aa4-ade5-3f7b64c1b3ce.jpg" width="200" hight="220">
+<img src="https://private-user-images.githubusercontent.com/165016015/362364094-5f38db2a-dfcb-4aa4-ade5-3f7b64c1b3ce.jpeg" width="200" hight="220">
 
 
 1. `apt update && yes | apt upgrade && apt update && apt install git -y`
