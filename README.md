@@ -23,7 +23,10 @@ This Bash script contains Oh-My-Zsh With, command autosuggestion, syntax highlig
 ## Download and installation steps
 <img src="https://user-images.githubusercontent.com/28594846/42721978-6b90278c-8761-11e8-97f2-eca4f86e837f.jpeg" width="200" hight="220">
 
-https://private-user-images.githubusercontent.com/165016015/362364094-5f38db2a-dfcb-4aa4-ade5-3f7b64c1b3ce.jpg
+
+## Download and installation steps
+<img src="https://user-images.githubusercontent.com/165016015/362364094-5f38db2a-dfcb-4aa4-ade5-3f7b64c1b3ce.jpg" width="200" hight="220">
+
 
 1. `apt update && yes | apt upgrade && apt update && apt install git -y`
 2. `git clone https://github.com/Mraprguild/Termux-Header-Style.git`
