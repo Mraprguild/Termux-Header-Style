@@ -25,7 +25,7 @@ This Bash script contains Oh-My-Zsh With, command autosuggestion, syntax highlig
 
 
 1. `apt update && yes | apt upgrade && apt update && apt install git -y`
-2. `git clone https://github.com/Mraprguilds/Termux-Header-Style.git`
+2. `git clone https://github.com/Mraprguild/Termux-Header-Style.git`
 3. `cd Termux-Header-Style`
 4. `ls`
 5. `bash mrapr.sh`
