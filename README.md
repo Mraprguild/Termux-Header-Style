@@ -26,9 +26,9 @@ This Bash script contains Oh-My-Zsh With, command autosuggestion, syntax highlig
 
 1. `apt update && yes | apt upgrade && apt update && apt install git -y`
 2. `git clone https://github.com/Mraprguilds/Termux-Header-Style.git`
-3. `cd T-Header/`
+3. `cd Termux-Header-Style`
 4. `ls`
-5. `bash t-header.sh`
+5. `bash mrapr.sh`
 6. after complete all processing just --open new session-- or `source ~/.zshrc`
 7. For remove tool `cd ~/T-header && bash t-header.sh --remove && exit`
 #...
