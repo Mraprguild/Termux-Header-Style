@@ -94,7 +94,7 @@ THEADER ()
 {
 clear;
 echo -e "\033[01;32m
-Remo773 (2020)
+Mraprguild (2020)
 		
 	menu
 +---------------------------*/
@@ -216,7 +216,7 @@ exit
 }
 
 clear;
-echo -e "\033[31m$(figlet -f Remo773 "T- Header")\e[0m"
+echo -e "\033[31m$(figlet -f Mraprguild "Termux-Header-Style")\e[0m"
 echo -e "\e[1;32m
 +----------------------------------*/
 Mraprguild : (\e[33m14.4.2021\e[32m)
